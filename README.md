@@ -41,7 +41,7 @@ A simple helper script to **export and import** your Dugout-Online finance data 
 ## 💡 How to use
 Once this script is active: 
 1. Go to any Dugout-Online page.
-2. Click the Tampermonkey icon → DO Finance Backup Helper →
+2. Click the Tampermonkey icon → DO Finance Backup Helper
    💾 Export DOFinanceDatabase → Downloads a .json backup file
    📂 Import DOFinanceDatabase → Opens a file picker to restore it
    
