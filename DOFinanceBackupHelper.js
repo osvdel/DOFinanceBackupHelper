@@ -8,6 +8,8 @@
 // @grant        GM_registerMenuCommand
 // @grant        GM_download
 // @grant        GM_openInTab
+// @homepage     https://github.com/osvdel/DOFinanceBackupHelper
+// @downloadURL  https://github.com/osvdel/DOFinanceBackupHelper.js
 // ==/UserScript==
 
 (function() {
