@@ -37,14 +37,19 @@ A simple helper script to **export and import** your Dugout-Online finance data 
 
 - Importing a backup **overwrites** existing data in the same object stores.  
 - Works only for the **same Dugout-Online script/database name ('DOFinanceDatabase')**.
-  
+
+---
+
 ## 💡 How to use
-Once this script is active: 
-1. Go to any Dugout-Online page.
-2. Click the Tampermonkey icon → DO Finance Backup Helper
-   💾 Export DOFinanceDatabase → Downloads a .json backup file
-   📂 Import DOFinanceDatabase → Opens a file picker to restore it
-   
-⚠️ After importing, reload the page to ensure the new data is loaded properly by your finance script.
+
+Once this script is active:  
+
+1. Go to any **Dugout-Online** page.  
+2. Click the **Tampermonkey icon → DO Finance Backup Helper**.  
+   - 💾 **Export DOFinanceDatabase** → Downloads a `.json` backup file  
+   - 📂 **Import DOFinanceDatabase** → Opens a file picker to restore it  
+
+⚠️ **After importing**, reload the page to ensure the new data is loaded properly by your finance script.
+
 
 <img width="944" height="207" alt="image" src="https://github.com/user-attachments/assets/3dbc0b8e-6a8a-47bc-beea-30f56384a8d9" />
