@@ -26,7 +26,7 @@ A simple helper script to **export and import** your Dugout-Online finance data 
 
 1. Open Tampermonkey in your browser
 2. Click the link below to install directly:
-👉 [**Install DOFinanceBackupHelper.js**](https://github.com/osvdel/DOFinanceBackupHelper/raw/main/DOFinanceBackupHelper.user.js)
+👉 [**Install DOFinanceBackupHelper.js**](https://github.com/osvdel/DOFinanceBackupHelper/raw/main/DOFinanceBackupHelper.js)
 3. Tampermonkey will open and ask you to confirm installation.  
 4. Save and enable the script  
 5. Visit [dugout-online.com](https://www.dugout-online.com)
